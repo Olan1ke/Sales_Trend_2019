@@ -49,14 +49,15 @@
 -  Create a City column
 -  Create a revenue column.
      All queries for this step is [here](https://github.com/Olan1ke/Sales_Trend_2019/blob/main/cleaning_The_Combined_Table.sql)
-
-5. 
-## Data Modelling
+This is the result of the cleaned data ![](Result_of_the_cleaned_data.png)
 
 ## Data Analysis
 
-## Data Visualation
 
+
+## Data Visualation
+   This is the Sales Revenue Trend 2019 Visualization; 
+  ![](Sales_Revenue_Trend_2019_Analysis.png)
 ## Insight
 
 ## Recomendation
