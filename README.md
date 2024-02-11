@@ -96,7 +96,6 @@ SELECT COUNT(DISTINCT Product) AS Distinct_Number_of_Products_Sold
 FROM Combined_Sales_2019;
 
 This is the result;
-
 ![](No_Of_Product_Sold.png)
 
 --- 5. Number sold per product
@@ -126,7 +125,6 @@ GROUP BY Product
 Order By Total_Revenue_per_Product Desc;
 
 This is the result;
-
 ![](Revenue_Per_Product.png)
 
 --- 7. Number of city 
@@ -136,8 +134,38 @@ SELECT COUNT(DISTINCT City) AS Distinct_Number_of_City
 FROM Combined_Sales_2019;
 
 This is the result;
+![](No_Of_Cities.png)
 
-![]()
+--- 8. Revenue And Quality_Ordered by Month
+
+SELECT Month, SUM(Revenue) AS Total_Revenue,Sum(Quality_Ordered) As Total_Quality_Ordered
+
+FROM Combined_Sales_2019
+
+WHERE Month IS NOT NULL
+
+GROUP BY Month
+
+ORDER BY Total_Revenue DESC;
+
+This is the result;
+![](Problem_statement_2.png)
+
+--- 9.Revenue By City
+
+SELECT City, SUM(Revenue) AS Total_Revenue
+
+FROM Combined_Sales_2019
+
+WHERE City IS NOT NULL
+
+GROUP BY City
+
+ORDER BY Total_Revenue DESC;
+
+This is the result;
+![](Problem_statement_3.png)
+
 
 ## Data Visualation
  The visualization was done on PowerBi.    
