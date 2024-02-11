@@ -32,7 +32,7 @@
    
 ## Data Transformation/Cleaning
   I combined all 12 tables to make cleaning and transforming easier and more efficient.These are the step I took in this process
-1. I cleaned the Febuary first because, I noticed the Order_Id was stored in date format. The query for the cleaning is [here]()
+1. I cleaned the Febuary first because, I noticed the Order_Id was stored in date format. The query for the cleaning is [here](https://github.com/Olan1ke/Sales_Trend_2019/blob/main/Cleaning_Febuary_table.sql)
   The queries use for com bine the tables is [here]()
 ## Data Modelling
 
