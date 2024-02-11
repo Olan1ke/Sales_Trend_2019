@@ -16,7 +16,7 @@
 
 ## Data Sourcing
    The data was downloaded, it was in a .bak format, so it was not accessible. I had to download it into Sql to Retrieve the data and restore it for the data cleaning and analysis. The data had 12 different for each month.
-    The Original data in the .bak format is [here] (https://github.com/Olan1ke/Sales_Trend_2019/blob/main/Sales_2019.sql)
+    The Original data in the .bak format is [here](https://github.com/Olan1ke/Sales_Trend_2019/blob/main/Sales_2019.sql)
    
     These are the step taken to retrive the data;
     
