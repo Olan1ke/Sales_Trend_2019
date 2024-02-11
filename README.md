@@ -180,7 +180,7 @@ From the dashboard and Analysis,it is observed that;
  2. The No of Product Sold is twenty (20)
  3. The Product is sold in nine (9) cities.
  4. Macbook Pro Laptop generated most revenue
- 5. San Francisco city genrated the most revene while austin city generation the least.
+ 5. San Francisco city generated the most revenue while Austin city generation the least.
   
 ## Conclusion And Recommendation
 - To answer the Accountant The Accountant reported that we made loss in the month of April, May, June and July as compared to other month
