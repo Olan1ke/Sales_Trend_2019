@@ -1,4 +1,4 @@
-![image](https://github.com/Olan1ke/Sales_Trend_2019/assets/127860303/e220259c-ccd3-4308-8472-25b5f5bbcba9)# Electronics And Appliances Sales Trend Analysis For Year 2019
+# Electronics And Appliances Sales Trend Analysis For Year 2019
 
 ## Introduction
   This Data was obtained from my data challenge group. It is data about different electronics and appliances, in different cities in the United States of America. It helps me Practice my skills on 
