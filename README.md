@@ -17,9 +17,8 @@
 
 ## Data Sourcing
    The data was downloaded, it was in a .bak format, so it was not accessible. I had to download it into Sql to Retrieve the data and restore it for the data cleaning and analysis. The data had 12 different for each month.
-    The Original data in the .bak format is [here]()
    
-    These are the step taken to retrive the data;
+  These are the step taken to retrive the data;
     
    ![](Step_1.png)
    
@@ -29,10 +28,10 @@
    
    ![](Step_4.png)
 
-   This is the retrive data [here](https://github.com/Olan1ke/Sales_Trend_2019/blob/main/Sales_2019.sql)
+  This is the retrive data [here](https://github.com/Olan1ke/Sales_Trend_2019/blob/main/Sales_2019.sql)
    
 ## Data Transformation/Cleaning
-
+  I combined all 12 tables to make cleaning and transforming easier and more efficient.The queries use for com bine the tables is [here]()
 ## Data Modelling
 
 ## Data Analysis
