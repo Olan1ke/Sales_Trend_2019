@@ -49,6 +49,8 @@
 -  Create a City column
 -  Create a revenue column.
      All queries for this step is [here](https://github.com/Olan1ke/Sales_Trend_2019/blob/main/cleaning_The_Combined_Table.sql)
+
+
 This is the result of the cleaned data ![](Result_of_the_cleaned_data.png)
 
 ## Data Analysis
