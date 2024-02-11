@@ -25,6 +25,7 @@
    ![](Step_2.png)
    
    ![](Step_3.png)
+   
    ![](Step_4.png)
 
 ## Data Transformation/Cleaning
