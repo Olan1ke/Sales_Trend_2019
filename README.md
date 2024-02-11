@@ -1,6 +1,5 @@
 # Electronics And Appliances Sales Trend Analysis For Year 2019
 
-![](Electronic_image.png)
 
 ## Introduction
   This Data was obtained from my data challenge group. It is data about different electronics and appliances, in different cities in the United States of America. It helps me Practice my skills on 
@@ -167,8 +166,8 @@ This is the result;
 ![](Problem_statement_3.png)
 
 
-## Data Visualation
- The visualization was done on PowerBi.    
+## Data Visualization
+ The visualization for better insight was done on PowerBi.    
     
      This is the Sales Revenue Trend 2019 Visualization; 
 
