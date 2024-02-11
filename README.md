@@ -48,7 +48,7 @@
 -  Create a Month column
 -  Create a City column
 -  Create a revenue column.
-     All queries for this step is [here]()
+     All queries for this step is [here](https://github.com/Olan1ke/Sales_Trend_2019/blob/main/cleaning_The_Combined_Table.sql)
 
 5. 
 ## Data Modelling
