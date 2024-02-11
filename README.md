@@ -172,8 +172,22 @@ This is the result;
      This is the Sales Revenue Trend 2019 Visualization; 
 
   ![](Sales_Revenue_Trend_2019_Analysis.png)
-
+ 
 ## Insight
 
-## Recomendation
+From the dashboard and Analysis,it is observed that;
+ 1. The total Revenue generated for the year 2019 is 3,446,5537
+ 2. The No of Product Sold is twenty (20)
+ 3. The Product is sold in nine (9) cities.
+ 4. Macbook Pro Laptop generated most revenue
+ 5. San Francisco city genrated the most revene while austin city generation the least.
+  
+## Conclusion And Recommendation
+- To answer the Accountant The Accountant reported that we made loss in the month of April, May, June and July as compared to other month
+  1. There should be more information about the sales like a profit column or a profit margin to be able to analysis the loss  well but since we don't have we use the revenue/no of order by month analysis.
+  2. According to the analysis on visualiztion;The revenue generate and no of order on those month are not that bad,they are both on the average in those four months instead January, september, august, febuary should me look into because they generated the least revenue
 
+- The Assistant manager suggestion about  placing more marketing attention on the following cities - Los Angeles, New York, Atlanta, San Francisco and Seattle as they seem to generate more revenue is a good but we replace seattle with Boston because Boston is in the first four cities which  generate the most revenue.
+
+- LG Washing Machine and LG Dryer is the least sold product,I think there should be a kind of promotion for this two product or maybe a discount on both
+- Revenue and order was more in December , I think more attention and promotion should be more in december because of the festive period.
