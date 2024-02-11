@@ -55,9 +55,11 @@ This is the result of the cleaned data ![](Result_of_the_cleaned_data.png)
 
 ## Data Analysis
  I genrated some key sales metrics to answer some question about the business;
+
  --- 1. Total Revenue for year 2019
 
 SELECT SUM(Revenue) AS Total_Revenue_For_Year_2019
+
 FROM Combined_Sales_2019;
 
 This is the result;
@@ -65,6 +67,7 @@ This is the result;
 
 --- 2. Total Quatity Sold
 SELECT SUM(Quality_Ordered) AS Total_Quantity_Sold_For_Year_2019
+
 FROM Combined_Sales_2019;
 
 This is the result;
