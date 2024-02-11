@@ -39,9 +39,9 @@ DELETE FROM CTE WHERE rn > 1;
 
 Select * From Combined_Sales_2019;
 
----Data Modelling
 
---- 1. Create a Month column
+
+ ---- 4. Create a Month column
 
 Alter Table Combined_Sales_2019
 Add Month varchar(50);
@@ -51,7 +51,7 @@ SET Month = Datename(month,order_Date) ;
 
 Select * From Combined_Sales_2019;
 
---- 2. Create a City column
+--- 5. Create a City column
 
 
 Select
@@ -67,7 +67,7 @@ Set City = PARSENAME(Replace(Purchased_Address, ',','.'), 2)
 Select * From Combined_Sales_2019;
 
 
---- 3. Create a revenue column
+--- 6. Create a revenue column
 
 Select Quality_Ordered * Price_Each As Revenue
 From Combined_Sales_2019;
