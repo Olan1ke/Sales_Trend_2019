@@ -1,4 +1,5 @@
 # Electronics And Appliances Sales Trend Analysis For Year 2019
+
 ![](Electronic_image.png)
 
 ## Introduction
@@ -28,6 +29,7 @@
    
    ![](Step_4.png)
 
+   This is the retrive data here()
 ## Data Transformation/Cleaning
 
 ## Data Modelling
